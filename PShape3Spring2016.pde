@@ -7,13 +7,13 @@ Due date: 3/30/2016
 Filename: PShape3Spring2016.pde
 Purpose: Demonstrate 3D Pshape, textures, & tints.
 Notes:
-'f' will freeze the canvas
-Changed original move() to rotate(), kept original code
-Added my own move() which moves x,y positions for the shapes
-Added movex, movey parameters for MyShape - determines the speed at which they
-move in the x,y directions
-Added xdirection, ydirection parameters for MyShape - determins which direction
-the shapes start moving toward
+  'f' will freeze the canvas
+  Changed original move() to rotate(), kept original code
+  Added my own move() which moves x,y positions for the shapes
+  Added movex, movey parameters for MyShape - determines the speed at which they
+  move in the x,y directions
+  Added xdirection, ydirection parameters for MyShape - determins which direction
+  the shapes start moving toward
 */
 
 // STUDENT: NOTE to P5 programmers:
